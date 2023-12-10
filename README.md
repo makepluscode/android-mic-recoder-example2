@@ -12,7 +12,7 @@ This project is an Android application for recording and playing audio. Users ca
 The app can be built and run using Android Studio.
 1. Clone the project:
    ```
-   git clone https://github.com/your-username/your-project-name.git
+   git clone https://github.com/makepluscode/android-mic-recoder-example2.git
    ```
 2. Open the cloned project in Android Studio.
 3. Click the 'Run' button to execute the app on a device or emulator.
